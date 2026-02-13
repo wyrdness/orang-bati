@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/orang-bati",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "orang-bati",
+    "name": "Orang Bati",
+    "aliases": [],
+    "category": "OF_GHOSTS_AND_SPIRITS_IN_MALAY_CULTURE",
+    "subcategory": "Montane tropical rainforest, volcanic terrain",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Orang Bati (\\\"men with wings\\\" in Indonesian/Malay) represents one of Southeast Asia's most compelling cryptozoological enigmas—winged humanoid creatures allegedly inhabiting the remote mountainous interior of Seram Island in Indonesia's Maluku (Molucca) Islands.",
+      "full": "Orang Bati (\\\"men with wings\\\" in Indonesian/Malay) represents one of Southeast Asia's most compelling cryptozoological enigmas—winged humanoid creatures allegedly inhabiting the remote mountainous interior of Seram Island in Indonesia's Maluku (Molucca) Islands. Standing approximately five feet tall with large bat-like wings, red skin, and glowing eyes, these entities occupy a terrifying position in local folklore as nocturnal predators that abduct children from isolated mountain villages. Seram Island, Indonesia's second-largest island after Papua, features rugged volcanic terrain dominated by Mount Kairatu (also called Gunung Binaiya), rising to 3,027 meters (9,931 feet). The island's interior remains heavily forested and relatively unexplored, with indigenous Alfur communities maintaining traditional beliefs that predate centuries of Islamic and Christian conversion efforts. Within this context, the Orang Bati occupies a prominent place in local supernatural geography—feared entities dwelling in caves high on Mount Kairatu's slopes, emerging at night to hunt. The creature combines characteristics that challenge conventional zoological categories: the bipedal posture and proportions of primates, the wings and nocturnal habits of bats, and the reported reddish coloration and glowing eyes that suggest either bioluminescence or folkloric embellishment. Traditional Seram beliefs integrate the Orang Bati into broader cosmological frameworks involving various classes of spirits (*hantu*), forest guardians (*penunggu hutan*), and supernatural beings that inhabit the liminal zones between human settlements and wilderness. The 1987 expedition by British missionary and amateur naturalist Tyson Hughes brought international attention to the Orang Bati, documenting local beliefs and investigating reported sightings near mountain villages. Hughes's accounts, later popularized in cryptozoological literature, described communities living in genuine fear of these creatures, with specific protocols for protecting children during nighttime hours and elaborate warning systems to alert villages of Orang Bati presence. Contemporary scientific perspectives offer various explanations: misidentified large flying foxes (*Pteropus* species), sightings of rare bird species, psychological phenomena related to sleep paralysis, or purely folkloric constructions serving social functions. However, the consistency of descriptions across generations, the specificity of habitat claims, and the seriousness with which local communities treat the phenomenon warrant thorough investigation. The Orang Bati narrative raises fundamental questions about undiscovered biodiversity in remote tropical environments, the relationship between folklore and zoological possibility, the mechanisms through which cultures encode environmental knowledge in supernatural narratives, and how indigenous belief systems persist in the face of modernization. Whether representing an unidentified biological entity, cultural memory of extinct species, or purely symbolic constructions, the Orang Bati provides crucial insights into Seram Islander worldviews and the complex intersections of culture, environment, and belief."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "OF_GHOSTS_AND_SPIRITS_IN_MALAY_CULTURE",
+      "type": "Montane tropical rainforest, volcanic terrain",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
+}
