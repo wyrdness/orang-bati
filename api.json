@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-08",
     "repository": "https://github.com/wyrdness/orang-bati",
     "maintainers": [
       {
@@ -16,111 +16,236 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "orang-bati",
     "name": "Orang Bati",
-    "aliases": [],
-    "category": "OF_GHOSTS_AND_SPIRITS_IN_MALAY_CULTURE",
-    "subcategory": "Montane tropical rainforest, volcanic terrain",
-    "tags": [
-      "folklore",
-      "mythology"
+    "aliases": [
+      { "name": "Orang-bati", "language": "Malay/Indonesian", "region": "Seram Island, Maluku, Indonesia", "meaning": "Men with wings" }
     ],
-    "status": "documented",
+    "category": "CRYPTID",
+    "subcategory": "Winged humanoid / cryptid primate",
+    "tags": [
+      "indonesia",
+      "seram",
+      "maluku",
+      "winged-humanoid",
+      "nocturnal",
+      "southeast-asia",
+      "cryptid",
+      "flying-creature",
+      "island-folklore"
+    ],
+    "status": "unverified",
     "description": {
-      "summary": "Orang Bati (\\\"men with wings\\\" in Indonesian/Malay) represents one of Southeast Asia's most compelling cryptozoological enigmas—winged humanoid creatures allegedly inhabiting the remote mountainous interior of Seram Island in Indonesia's Maluku (Molucca) Islands.",
-      "full": "Orang Bati (\\\"men with wings\\\" in Indonesian/Malay) represents one of Southeast Asia's most compelling cryptozoological enigmas—winged humanoid creatures allegedly inhabiting the remote mountainous interior of Seram Island in Indonesia's Maluku (Molucca) Islands. Standing approximately five feet tall with large bat-like wings, red skin, and glowing eyes, these entities occupy a terrifying position in local folklore as nocturnal predators that abduct children from isolated mountain villages. Seram Island, Indonesia's second-largest island after Papua, features rugged volcanic terrain dominated by Mount Kairatu (also called Gunung Binaiya), rising to 3,027 meters (9,931 feet). The island's interior remains heavily forested and relatively unexplored, with indigenous Alfur communities maintaining traditional beliefs that predate centuries of Islamic and Christian conversion efforts. Within this context, the Orang Bati occupies a prominent place in local supernatural geography—feared entities dwelling in caves high on Mount Kairatu's slopes, emerging at night to hunt. The creature combines characteristics that challenge conventional zoological categories: the bipedal posture and proportions of primates, the wings and nocturnal habits of bats, and the reported reddish coloration and glowing eyes that suggest either bioluminescence or folkloric embellishment. Traditional Seram beliefs integrate the Orang Bati into broader cosmological frameworks involving various classes of spirits (*hantu*), forest guardians (*penunggu hutan*), and supernatural beings that inhabit the liminal zones between human settlements and wilderness. The 1987 expedition by British missionary and amateur naturalist Tyson Hughes brought international attention to the Orang Bati, documenting local beliefs and investigating reported sightings near mountain villages. Hughes's accounts, later popularized in cryptozoological literature, described communities living in genuine fear of these creatures, with specific protocols for protecting children during nighttime hours and elaborate warning systems to alert villages of Orang Bati presence. Contemporary scientific perspectives offer various explanations: misidentified large flying foxes (*Pteropus* species), sightings of rare bird species, psychological phenomena related to sleep paralysis, or purely folkloric constructions serving social functions. However, the consistency of descriptions across generations, the specificity of habitat claims, and the seriousness with which local communities treat the phenomenon warrant thorough investigation. The Orang Bati narrative raises fundamental questions about undiscovered biodiversity in remote tropical environments, the relationship between folklore and zoological possibility, the mechanisms through which cultures encode environmental knowledge in supernatural narratives, and how indigenous belief systems persist in the face of modernization. Whether representing an unidentified biological entity, cultural memory of extinct species, or purely symbolic constructions, the Orang Bati provides crucial insights into Seram Islander worldviews and the complex intersections of culture, environment, and belief."
+      "summary": "A reported winged humanoid creature from Seram Island in the Maluku (Molucca) Islands of eastern Indonesia, described as approximately five feet tall with bat-like black wings and red skin, said to emerge from caves on Mount Kairatu to abduct children from remote villages at night.",
+      "full": "The Orang Bati ('men with wings' in Malay/Indonesian) are reported from the mountainous interior of Seram Island, the second-largest island in the Maluku archipelago of eastern Indonesia. According to indigenous Alfur community traditions, the creatures inhabit a network of caves on the slopes of Mount Kairatu (also called Gunung Binaiya, 3,027 m), emerging nocturnally to raid isolated mountain villages and abduct children. Physical descriptions are consistent: approximately five feet tall, with black leathery bat-like wings, red or reddish skin, and a long thin tail. Witnesses report hearing a long, mournful wail before attacks. The tradition appears to predate both Islamic and Christian missionary contact, as Christian missionaries from the 15th and 16th centuries recorded hearing accounts of a winged monster terrorizing the village of Uraur. In 1987, British missionary Tyson Hughes arrived on Seram for an eighteen-month contract and encountered these beliefs directly; he documented local accounts and claims to have personally witnessed a creature. Scientific investigation by television host Richard Terry concluded the creature was most likely the large flying fox (Pteropus vampyrus), which can reach wingspans of up to 1.5 meters and emits piercing screams. No physical specimen, photograph, or verifiable physical evidence has been documented. The Orang Bati remains unverified."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "From Malay/Indonesian orang (person, people) and bati (winged; from a root meaning to fly or have wings). The name is used by indigenous communities of Seram Island and was adopted in broader Indonesian usage.",
+      "meaning": "Men with wings; winged people",
+      "first_use": "Pre-contact Alfur oral tradition of Seram Island; documented in writing by Western sources in the 15th–16th century missionary accounts"
     }
   },
+
   "classification": {
     "taxonomy": {
-      "category": "OF_GHOSTS_AND_SPIRITS_IN_MALAY_CULTURE",
-      "type": "Montane tropical rainforest, volcanic terrain",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "CRYPTID",
+      "type": "Winged humanoid",
+      "subtype": "Cryptid primate / bat-like humanoid",
+      "variant": "Seram Island, Maluku, Indonesia"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "mothman", "name": "Mothman", "relationship": "similar", "description": "Winged humanoid reported from Point Pleasant, West Virginia, USA; cross-cultural parallel" },
+      { "id": "ahool", "name": "Ahool", "relationship": "similar", "description": "Reported giant bat-like creature from Java, Indonesia; regional parallel" },
+      { "id": "flying-fox", "name": "Large Flying Fox (Pteropus vampyrus)", "relationship": "related", "description": "The most widely cited skeptical explanation; large fruit bat with wingspan up to 1.5 m native to the region" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "height": { "min": 1.5, "max": 1.5, "unit": "meters", "confidence": "low" },
+      "coloration": ["red skin", "black wings"],
+      "features": [
+        { "feature": "Black leathery wings", "description": "Large bat-like wings described as black and leathery, capable of powered flight", "frequency": "always" },
+        { "feature": "Red or reddish skin", "description": "Exposed skin of the body described as red", "frequency": "always" },
+        { "feature": "Long thin tail", "description": "A long, thin tail distinguishing it from typical primate proportions", "frequency": "common" },
+        { "feature": "Humanoid upright posture", "description": "Described as bipedal when grounded, with generally humanoid proportions", "frequency": "common" }
+      ],
+      "morphology": "A winged humanoid combining primate-like body proportions with large bat-like wings and a tail. The combination of features challenges conventional zoological categories; no known species matches the description."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Powered flight", "description": "Capable of flying from Mount Kairatu to distant villages; carries children during flight", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Child abduction", "description": "Primary reported behavior: abducting children from remote villages during nocturnal raids", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Mournful vocalization", "description": "Emits a long mournful wail described as warning of imminent attack", "frequency": "common", "evidence_level": "reported" },
+      { "ability": "Night vision / nocturnal activity", "description": "Operates exclusively at night, consistent with bat-like adaptations", "frequency": "always", "evidence_level": "reported" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "aggressive",
+      "social_structure": "variable",
+      "habitat_preference": ["volcanic cave networks (Mount Kairatu / Gunung Binaiya)", "montane forest of Seram Island interior"],
+      "diet": "Reportedly abducts children (implied predation); no confirmed prey species",
+      "patterns": [
+        "Roosts in caves on the slopes of Mount Kairatu",
+        "Raids isolated mountain villages at night",
+        "Targets children specifically",
+        "Emits a mournful wail before or during raids",
+        "Returns to mountain caves before daylight"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Reported exclusively from Seram Island (Ceram), Maluku (Molucca) Islands, eastern Indonesia. The creature is specifically associated with the interior mountains, particularly Mount Kairatu (Gunung Binaiya).",
+      "continents": ["Asia"],
+      "countries": ["Indonesia"],
+      "regions": [
+        "Seram Island, Maluku Province, Indonesia",
+        "Mount Kairatu (Gunung Binaiya) area"
+      ]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Mount Kairatu (Gunung Binaiya), Seram Island",
+        "location": {
+          "description": "Cave networks on the slopes of Gunung Binaiya, the highest peak on Seram Island at 3,027 m",
+          "country": "Indonesia",
+          "region": "Maluku Province",
+          "coordinates": { "latitude": -3.18, "longitude": 129.47 }
+        },
+        "notes": "The Orang Bati are said to roost in caves on this volcanic mountain and emerge nocturnally"
+      },
+      {
+        "name": "Village of Uraur, Seram Island",
+        "location": {
+          "description": "Village of Uraur on Seram Island; specifically identified in 15th–16th century missionary accounts as terrorized by a winged monster",
+          "country": "Indonesia",
+          "region": "Maluku Province"
+        },
+        "notes": "Earliest documented location of Orang Bati accounts from missionary records"
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "1500-01-01",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "15th–16th century Christian missionary accounts from Seram Island"
+      },
+      "peak_activity_periods": [
+        { "period": "15th–16th centuries", "description": "Earliest documented missionary accounts of winged creature traditions on Seram" },
+        { "period": "1987", "description": "Tyson Hughes documents contemporary accounts and claims personal sighting" }
+      ],
+      "seasonal_patterns": "No documented seasonal pattern."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "The Orang Bati tradition is embedded in the pre-Islamic, pre-Christian indigenous cosmology of the Alfur people of Seram Island. It predates documented colonial contact and persists alongside both Islamic and Christian religious frameworks that have been adopted by much of the Seram population.",
+      "earliest_accounts": "15th–16th century Christian missionaries recorded accounts from Seram Island of a winged monster terrorizing the village of Uraur. These are the earliest written Western records. Indigenous oral tradition is older.",
+      "folklore_connections": "The Orang Bati belongs to a broader Southeast Asian tradition of winged or bat-like supernatural beings, including the Indonesian kuntilanak and various Malay hantu (spirit) traditions. Cross-cultural parallels exist with the Ahool (Java) and with winged humanoid traditions globally."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1500-01-01", "event": "Christian missionaries on Seram Island record local accounts of a winged monster terrorizing the village of Uraur", "significance": "Earliest documented Western record of the Orang Bati tradition", "source": "15th–16th century missionary accounts (cited in secondary sources)" },
+      { "date": "1987-01-01", "event": "British missionary Tyson Hughes arrives on Seram for an 18-month contract; documents contemporary Orang Bati accounts from local communities and claims a personal sighting", "significance": "Primary modern documentation; brought the Orang Bati to international cryptozoological attention", "source": "Hughes, T. (cited in cryptozoological literature)" }
+    ],
+    "modern_era": "The Orang Bati was brought to international attention through Tyson Hughes's 1987 accounts and subsequent coverage in cryptozoological literature. Television coverage, including an investigation by Richard Terry that concluded the creature was most likely the large flying fox (Pteropus vampyrus), has maintained popular interest. No systematic scientific investigation of the Orang Bati has been conducted. The flying fox hypothesis is the leading scientific explanation."
   },
+
   "sightings": {
     "statistics": {
-      "total_documented": 0,
+      "total_documented": 2,
       "verified": 0,
-      "disputed": 0,
-      "debunked": 0
+      "disputed": 2,
+      "debunked": 0,
+      "date_range": { "earliest": "1500", "latest": "1987" }
     },
-    "notable": [],
+    "notable": [
+      {
+        "id": "orang-bati-sighting-1987-hughes",
+        "name": "Tyson Hughes sighting (Seram Island, 1987)",
+        "date": { "value": "1987-01-01", "precision": "approximate" },
+        "location": {
+          "description": "Seram Island interior, Maluku Province, Indonesia",
+          "country": "Indonesia",
+          "region": "Maluku Province"
+        },
+        "witnesses": { "count": 1, "types": ["Tyson Hughes (British missionary)"], "credibility_factors": ["Eyewitness with prior knowledge of local traditions"] },
+        "description": "British missionary Tyson Hughes, during his 18-month contract on Seram Island beginning in 1987, documented extensive local community accounts of the Orang Bati and claims to have personally witnessed a creature. Details of his specific sighting were recounted in subsequent cryptozoological literature.",
+        "conditions": { "time_of_day": "Nocturnal", "visibility": "Limited; nighttime conditions" },
+        "evidence": ["Eyewitness testimony from Hughes", "Community accounts collected during 18-month residence"],
+        "credibility": { "rating": "low", "factors": ["Single eyewitness", "No photographic or physical evidence", "Missionary had prior knowledge of the tradition"], "notes": "Hughes's account brought the Orang Bati to Western cryptozoological attention but lacks corroborating physical evidence." },
+        "sources": ["Hughes, T. (1987); cited in cryptozoological literature"],
+        "featured": true
+      }
+    ],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": []
   },
+
   "theories": {
     "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "scientific": [
+      {
+        "name": "Large flying fox (Pteropus vampyrus)",
+        "description": "The Orang Bati sightings are explained by encounters with the large flying fox (Pteropus vampyrus), a fruit bat native to Southeast Asia and Indonesia with wingspans up to 1.5 meters. Flying foxes are colonial, vocal, and visually impressive in flight — capable of causing genuine alarm in communities unfamiliar with their scale.",
+        "proponents": ["Richard Terry (television investigator)"],
+        "evidence_cited": ["Pteropus vampyrus is present on Seram Island and throughout the Maluku islands", "Size and nocturnal flight behavior match reported observations", "Flying foxes emit loud, piercing vocalizations"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Cultural protective narrative",
+        "description": "The Orang Bati tradition functions as a cultural mechanism for enforcing community safety behaviors — particularly keeping children indoors at night when genuine dangers (predatory birds, disease, misadventure) are elevated. The creature narrative encodes practical safety rules in a memorable and emotionally compelling form.",
+        "proponents": ["Comparative folklorists"],
+        "evidence_cited": ["Child abduction as the central threat mirrors actual childhood dangers in isolated mountain communities", "Similar protective-narrative functions documented for other cryptid traditions globally"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Alfur indigenous tradition of Seram Island: Orang Bati inhabit caves on Mount Kairatu and raid villages",
+        "Pre-Islamic and pre-Christian tradition predating documented colonial contact",
+        "Community warning systems developed to alert villages of Orang Bati presence"
+      ],
+      "stories": [
+        "Orang Bati emerge from mountain caves nocturnally to abduct children from isolated villages",
+        "The creatures return to the mountain before daylight",
+        "A long mournful wail signals imminent attack"
+      ],
+      "beliefs": "Indigenous Alfur communities of Seram Island maintain genuine fear of the Orang Bati, with specific protocols for child safety during nighttime and village warning systems. The tradition persists alongside both Islamic and Christian religious frameworks adopted across Seram."
     },
     "popular_culture": {
       "literature": [],
-      "film_tv": [],
+      "film_tv": [
+        "Television documentary investigation by Richard Terry (concluded large flying fox explanation)"
+      ],
       "games": [],
       "other": []
     }
   },
+
   "research": {
-    "researchers": [],
+    "researchers": [
+      { "name": "Tyson Hughes", "affiliation": "British missionary", "contribution": "Documented contemporary Orang Bati accounts during 18-month residence on Seram Island (1987); claims personal sighting", "period": "1987" }
+    ],
     "organizations": [],
-    "ongoing_studies": "None documented"
+    "ongoing_studies": "No systematic scientific investigation of the Orang Bati has been conducted. The cryptid remains undocumented by physical evidence."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "handwiki-orang-bati", "type": "website", "title": "Orang-bati", "url": "https://handwiki.org/wiki/Biology:Orang-bati", "accessed": "2026-05-08" }
+  ]
 }
